@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Automate Tracking",
+    "description": "Automated dashboards for tracking progress and identifying areas for improvement",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Get Guidance",
+    "description": "Detailed resources and guidance on how to tackle all the questions on the B-Corp Impact Assessmen",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,35 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Optimize B Corp journey",
+    "description": "Automatically identify areas of improvement and highlight the optimal route to being a certified B-Corp",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Manage documents",
+    "description": "The one repository for all the B-Corp doumenation and collaterals.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Streamline Communication",
+    "description": "Automates communication, manage emails and send nudges to stakeholders",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Benchmark",
+    "description": "Know where you stand by comparing your performance with other companies in the same field",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
